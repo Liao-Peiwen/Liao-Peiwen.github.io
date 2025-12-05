@@ -1,0 +1,102 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[5307,["972","static/chunks/972-552ddab09bbe1887.js","726","static/chunks/726-d5073c85a4fd6973.js","186","static/chunks/app/(marketing)/layout-4e8265401e9defa4.js"],"Navbar"]
+7:I[2972,["972","static/chunks/972-552ddab09bbe1887.js","666","static/chunks/app/(marketing)/blog/%5Bslug%5D/page-e046fa657ee67aa4.js"],""]
+8:I[5878,["972","static/chunks/972-552ddab09bbe1887.js","726","static/chunks/726-d5073c85a4fd6973.js","186","static/chunks/app/(marketing)/layout-4e8265401e9defa4.js"],"Image"]
+9:I[7507,["972","static/chunks/972-552ddab09bbe1887.js","726","static/chunks/726-d5073c85a4fd6973.js","186","static/chunks/app/(marketing)/layout-4e8265401e9defa4.js"],"BackToTop"]
+a:I[1471,["185","static/chunks/app/layout-505fd1e4dbdfc7c4.js"],"GoogleAnalytics"]
+4:["slug","yazi-install-and-config","d"]
+b:{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"}
+c:{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"}
+d:{"display":"inline-block"}
+e:{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0}
+0:["C8PgWbPtibsNtLGFGLAVF",[[["",{"children":["(marketing)",{"children":["blog",{"children":[["slug","yazi-install-and-config","d"],{"children":["__PAGE__?{\"slug\":\"yazi-install-and-config\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":["(marketing)",{"children":["blog",{"children":[["slug","yazi-install-and-config","d"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3ba84af863b23d36.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(marketing)","children","blog","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(marketing)","children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/48409e7635d7cbf6.css","precedence":"next","crossOrigin":"$undefined"}]],[["$","$L6",null,{}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(marketing)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"className":"Footer_footer__AHlHv","children":["$","div",null,{"className":"Footer_container__Vjdvq","children":[["$","nav",null,{"className":"Footer_nav__wTB6R","children":[["$","$L7","/company",{"href":"/company","className":"Footer_navLink__Gsa1U","children":"会社情報"}],["$","$L7","/services",{"href":"/services","className":"Footer_navLink__Gsa1U","children":"サービス"}],["$","$L7","/projects",{"href":"/projects","className":"Footer_navLink__Gsa1U","children":"実績"}],["$","$L7","/blog",{"href":"/blog","className":"Footer_navLink__Gsa1U","children":"ブログ"}],["$","$L7","/trends",{"href":"/trends","className":"Footer_navLink__Gsa1U","children":"業界トレンド"}],["$","$L7","/careers",{"href":"/careers","className":"Footer_navLink__Gsa1U","children":"採用情報"}],["$","$L7","/contact",{"href":"/contact","className":"Footer_navLink__Gsa1U","children":"お問い合わせ"}],["$","$L7","/privacy-policy",{"href":"/privacy-policy","className":"Footer_navLink__Gsa1U","children":"プライバシーポリシー"}]]}],["$","$L7",null,{"href":"/","className":"Footer_logo__zzQdg","children":["$","$L8",null,{"src":"/images/logo-text.svg","alt":"ネビュラソフト","width":240,"height":25,"className":"Footer_logoText__ic4W3"}]}],["$","p",null,{"className":"Footer_companyNameJa__h7hDD","children":"株式会社ネビュラソフト"}],["$","p",null,{"className":"Footer_address__i0YNO","children":"東京都中央区日本橋箱崎町3-12 ５セントラルビル301室"}],["$","p",null,{"className":"Footer_copyright__mq7le","children":"Copyright © 2016 nebulasoft Co., Ltd. All Rights Reserved. 株式会社 ネビュラソフト"}]]}]}],["$","$L9",null,{}]]],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/23e95f26f0166eb5.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/86697a624527b587.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"ja","className":"__variable_0c1391 __variable_8b3a0b","children":["$","body",null,{"className":"__className_0c1391","children":[["$","$La",null,{}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$b","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$c","children":"404"}],["$","div",null,{"style":"$d","children":["$","h2",null,{"style":"$e","children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]}]],null],null],["$Lf",null]]]]
+11:I[2863,["972","static/chunks/972-552ddab09bbe1887.js","666","static/chunks/app/(marketing)/blog/%5Bslug%5D/page-e046fa657ee67aa4.js"],"Contact"]
+10:T1719,<h1>Yazi のインストールと設定方法</h1>
+<p>Yazi は、Rust 製の高速・軽量なターミナルファイルマネージャです。<br>本記事では、Yazi のインストールから設定、プラグイン導入までを順に紹介します。<br>詳細は <a href="https://yazi-rs.github.io/docs/installation">公式ドキュメント</a> を参照してください。</p>
+
+<h2>インストール</h2>
+<h3>macOS</h3>
+<p>Homebrew を使用して簡単にインストールできます。</p>
+<pre><code class="language-bash">brew install yazi
+</code></pre>
+<h3>Windows</h3>
+<p>WinGet または Scoop を利用できます。<br>ここでは WinGet を使用する例を紹介します。</p>
+<pre><code class="language-bash">winget install yazi
+</code></pre>
+
+<h2>Windows 環境での注意点</h2>
+<p>Yazi は内部で MIME タイプを判別するため、Unix 環境の <code>file</code> コマンドに依存しています。<br>Windows では、Git に付属する MSYS2 環境内の <code>file.exe</code> を使用するのが最も簡単です。</p>
+<p>また、依存ライブラリ <a href="https://github.com/linebender/resvg">resvg</a> は WinGet に含まれていないため、Scoop で別途インストールする必要があります。</p>
+<pre><code class="language-bash">scoop install resvg
+</code></pre>
+<p>次に、環境変数 <code>YAZI_FILE_ONE</code> に <code>file.exe</code> のパスを設定します。</p>
+<pre><code class="language-powershell">[system.Environment]::SetEnvironmentVariable(
+  'YAZI_FILE_ONE',
+  '&lt;Git_Installed_Directory&gt;\usr\bin\file.exe',
+  'Machine' # システム全体 または 'User'（ユーザーレベル）
+)
+</code></pre>
+<p>これにより、画像プレビューなどが正しく動作します。</p>
+
+<h2>シェル関数の設定</h2>
+<p>Yazi 起動中にディレクトリを移動しても、終了後にシェルのカレントディレクトリは元に戻ってしまいます。<br>この問題を解消するため、各シェルごとにラッパー関数を定義する方法が推奨されています。</p>
+<p>詳しくは以下の公式ドキュメントを参照してください。<br><a href="https://yazi-rs.github.io/docs/quick-start#shell-wrapper">https://yazi-rs.github.io/docs/quick-start#shell-wrapper</a></p>
+
+<h2>設定ファイル</h2>
+<p>設定ファイルの保存先は OS によって異なります。</p>
+<ul>
+<li>Unix 系: <code>~/.config/yazi/</code></li>
+<li>Windows: <code>%AppData%\yazi\config\</code></li>
+</ul>
+<p>Yazi 本体の主な設定ファイルは以下の 3 つです。</p>
+<ul>
+<li><a href="https://yazi-rs.github.io/docs/configuration/yazi">yazi.toml</a>：基本設定（ファイルオープン動作など）</li>
+<li><a href="https://yazi-rs.github.io/docs/configuration/keymap">keymap.toml</a>：キーバインド設定</li>
+<li><a href="https://yazi-rs.github.io/docs/configuration/theme">theme.toml</a>：テーマ・配色設定</li>
+</ul>
+<p>プリセットは <a href="https://github.com/sxyazi/yazi/tree/main/yazi-config/preset">GitHub リポジトリ</a> に公開されています。<br>プリセットを直接編集せず、ユーザー設定で上書きする形が推奨です。</p>
+<p>各設定項目の意味は <a href="https://yazi-rs.github.io/docs/term">用語集</a> にまとめられています。</p>
+
+<h2>プラグイン管理</h2>
+<p>Yazi には <code>ya pkg</code> というパッケージマネージャが同梱されており、npm のような操作感でプラグインを管理できます。</p>
+<pre><code class="language-bash">ya pkg --help
+</code></pre>
+<p>デフォルトのプラグインディレクトリ：</p>
+<ul>
+<li>Unix: <code>~/.config/yazi/plugins</code></li>
+<li>Windows: <code>%AppData%\yazi\config\plugins\</code></li>
+</ul>
+<h3>テーマ（Flavors）</h3>
+<p>テーマのディレクトリも同様の構造です。</p>
+<ul>
+<li>Unix: <code>~/.config/yazi/flavors/</code></li>
+<li>Windows: <code>%AppData%\yazi\config\flavors\</code></li>
+</ul>
+
+<h2>プラグインの設定</h2>
+<p>多くのプラグインでは、設定ディレクトリ内に <code>init.lua</code> を作成し、Neovim のような形式で <code>setup</code> 関数を呼び出します。<br>プラグインによっては、ショートカット設定などを TOML ファイルに追加する場合もあります。</p>
+<p>参考リンク：</p>
+<ul>
+<li><a href="https://yazi-rs.github.io/docs/cli">CLI ドキュメント</a></li>
+<li><a href="https://yazi-rs.github.io/docs/plugins/overview">プラグイン概要 (BETA)</a></li>
+<li><a href="https://yazi-rs.github.io/docs/resources/">プラグイン一覧</a></li>
+<li><a href="https://github.com/yazi-rs/plugins">プラグイン集合</a></li>
+<li><a href="https://yazi-rs.github.io/docs/flavors/overview">テーマ概要 (BETA)</a></li>
+<li><a href="https://github.com/yazi-rs/flavors">テーマ一覧</a></li>
+</ul>
+
+<h2>基本操作</h2>
+<ul>
+<li>コマンドラインで <code>yazi</code> を実行して起動<br>（シェル関数を設定していれば <code>y</code> でも起動可能）</li>
+<li>操作体系は Vim に近く、ショートカットの詳細は <a href="https://yazi-rs.github.io/docs/quick-start">Quick Start</a> にまとめられています。</li>
+<li><code>q</code>：終了</li>
+<li><code>~</code> または <code>F1</code>：ヘルプ表示（主要ショートカット一覧）</li>
+</ul>
+
+<h2>まとめ</h2>
+<p>Yazi は、シンプルながらも高い拡張性と軽快な操作性を兼ね備えたターミナルファイルマネージャです。<br>Windows / macOS / Linux いずれの環境でも動作し、プラグインやテーマによって柔軟にカスタマイズ可能です。</p>
+<p>日常の開発ワークフローを効率化するツールとして、ぜひ一度導入を検討してみてください。</p>
+2:["$","div",null,{"className":"detail-page_pageContainer__cNf3_","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Yazi のインストールと設定方法\",\"description\":\"Rust 製ターミナルファイルマネージャ Yazi の導入から基本設定、プラグイン管理までを解説します。\",\"image\":\"https://nebulasoft.co.jp/images/blog/placeholder.svg\",\"datePublished\":\"2025-10-07\",\"dateModified\":\"2025-10-07\",\"author\":{\"@type\":\"Organization\",\"name\":\"株式会社ネビュラソフト\",\"url\":\"https://nebulasoft.co.jp\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"株式会社ネビュラソフト\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://nebulasoft.co.jp/images/logo-icon.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://nebulasoft.co.jp/blog/yazi-install-and-config\"},\"keywords\":\"Yazi, Terminal, Rust, ファイルマネージャ, 開発環境\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://nebulasoft.co.jp\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"ブログ\",\"item\":\"https://nebulasoft.co.jp/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Yazi のインストールと設定方法\",\"item\":\"https://nebulasoft.co.jp/blog/yazi-install-and-config\"}]}"}}],["$","section",null,{"className":"detail-page_breadcrumbSection__ZOcEf","children":["$","div",null,{"className":"container","children":["$","nav",null,{"className":"Breadcrumb_breadcrumb__Nr5Ua","aria-label":"パンくずリスト","children":[["$","span","0",{"className":"Breadcrumb_breadcrumbItem__VFiR5","children":[["$","$L7",null,{"href":"/","className":"Breadcrumb_link__CDsWw","children":"ホーム"}],["$","span",null,{"className":"Breadcrumb_separator__KXuc7","aria-hidden":"true","children":"›"}]]}],["$","span","1",{"className":"Breadcrumb_breadcrumbItem__VFiR5","children":[["$","$L7",null,{"href":"/blog","className":"Breadcrumb_link__CDsWw","children":"ブログ"}],["$","span",null,{"className":"Breadcrumb_separator__KXuc7","aria-hidden":"true","children":"›"}]]}],["$","span","2",{"className":"Breadcrumb_breadcrumbItem__VFiR5","children":[["$","span",null,{"className":"Breadcrumb_current__R3HRq","children":"Yazi のインストールと設定方法"}],false]}]]}]}]}],["$","section",null,{"className":"detail-page_titleSection__p_ga1","children":["$","div",null,{"className":"container","children":["$","h1",null,{"className":"detail-page_title__BFEdF","children":"Yazi のインストールと設定方法"}]}]}],["$","section",null,{"className":"detail-page_contentSection__MIu3Z","children":["$","div",null,{"className":"container","children":[["$","div",null,{"className":"detail-page_metaInfo__VdS4C","children":["$","div",null,{"className":"detail-page_metaItem__j9veN","children":"2025年10月7日"}]}],["$","article",null,{"className":"detail-page_mainContent__OpwAg","children":["$","div",null,{"className":"prose_prose__ubt9N","dangerouslySetInnerHTML":{"__html":"$10"}}]}],["$","div",null,{"className":"detail-page_backToList__SqslC","children":["$","$L7",null,{"href":"/blog","className":"detail-page_backButton__aZatA","children":[["$","svg",null,{"width":"24","height":"24","viewBox":"0 0 24 24","fill":"none","xmlns":"http://www.w3.org/2000/svg","children":["$","path",null,{"d":"M19 12H5M5 12L12 19M5 12L12 5","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round"}]}],["$","span",null,{"children":"一覧に戻る"}]]}]}]]}]}],["$","$L11",null,{}]]}]
+f:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Yazi のインストールと設定方法 | ブログ | 株式会社ネビュラソフト"}],["$","meta","3",{"name":"description","content":"Rust 製ターミナルファイルマネージャ Yazi の導入から基本設定、プラグイン管理までを解説します。"}],["$","meta","4",{"name":"author","content":"株式会社ネビュラソフト"}],["$","link","5",{"rel":"manifest","href":"/manifest.json","crossOrigin":"use-credentials"}],["$","meta","6",{"name":"keywords","content":"Yazi,Terminal,Rust,ファイルマネージャ,開発環境"}],["$","meta","7",{"name":"creator","content":"株式会社ネビュラソフト"}],["$","meta","8",{"name":"publisher","content":"株式会社ネビュラソフト"}],["$","meta","9",{"name":"robots","content":"index, follow"}],["$","meta","10",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","11",{"rel":"canonical","href":"https://nebulasoft.co.jp/blog/yazi-install-and-config"}],["$","meta","12",{"name":"format-detection","content":"telephone=no, address=no, email=no"}],["$","meta","13",{"property":"og:title","content":"Yazi のインストールと設定方法 | 株式会社ネビュラソフト"}],["$","meta","14",{"property":"og:description","content":"Rust 製ターミナルファイルマネージャ Yazi の導入から基本設定、プラグイン管理までを解説します。"}],["$","meta","15",{"property":"og:url","content":"https://nebulasoft.co.jp/blog/yazi-install-and-config"}],["$","meta","16",{"property":"og:image","content":"https://liao-peiwen.github.io/images/blog/placeholder.svg"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"Yazi のインストールと設定方法"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2025-10-07"}],["$","meta","22",{"property":"article:modified_time","content":"2025-10-07"}],["$","meta","23",{"property":"article:author","content":"株式会社ネビュラソフト"}],["$","meta","24",{"property":"article:tag","content":"Yazi"}],["$","meta","25",{"property":"article:tag","content":"Terminal"}],["$","meta","26",{"property":"article:tag","content":"Rust"}],["$","meta","27",{"property":"article:tag","content":"ファイルマネージャ"}],["$","meta","28",{"property":"article:tag","content":"開発環境"}],["$","meta","29",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","30",{"name":"twitter:title","content":"Yazi のインストールと設定方法"}],["$","meta","31",{"name":"twitter:description","content":"Rust 製ターミナルファイルマネージャ Yazi の導入から基本設定、プラグイン管理までを解説します。"}],["$","meta","32",{"name":"twitter:image","content":"https://liao-peiwen.github.io/images/blog/placeholder.svg"}],["$","link","33",{"rel":"shortcut icon","href":"/favicon.ico"}],["$","link","34",{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link","35",{"rel":"icon","href":"/favicon-32x32.png","sizes":"32x32","type":"image/png"}],["$","link","36",{"rel":"icon","href":"/favicon-16x16.png","sizes":"16x16","type":"image/png"}],["$","link","37",{"rel":"icon","href":"/images/logo-icon.svg","type":"image/svg+xml"}],["$","link","38",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","meta","39",{"name":"next-size-adjust"}]]
+1:null

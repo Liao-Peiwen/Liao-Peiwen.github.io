@@ -1,0 +1,103 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[5307,["972","static/chunks/972-552ddab09bbe1887.js","726","static/chunks/726-d5073c85a4fd6973.js","186","static/chunks/app/(marketing)/layout-4e8265401e9defa4.js"],"Navbar"]
+7:I[2972,["972","static/chunks/972-552ddab09bbe1887.js","666","static/chunks/app/(marketing)/blog/%5Bslug%5D/page-e046fa657ee67aa4.js"],""]
+8:I[5878,["972","static/chunks/972-552ddab09bbe1887.js","726","static/chunks/726-d5073c85a4fd6973.js","186","static/chunks/app/(marketing)/layout-4e8265401e9defa4.js"],"Image"]
+9:I[7507,["972","static/chunks/972-552ddab09bbe1887.js","726","static/chunks/726-d5073c85a4fd6973.js","186","static/chunks/app/(marketing)/layout-4e8265401e9defa4.js"],"BackToTop"]
+a:I[1471,["185","static/chunks/app/layout-505fd1e4dbdfc7c4.js"],"GoogleAnalytics"]
+4:["slug","wordpress-on-aws-lightsail-vs-ec2","d"]
+b:{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"}
+c:{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"}
+d:{"display":"inline-block"}
+e:{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0}
+0:["C8PgWbPtibsNtLGFGLAVF",[[["",{"children":["(marketing)",{"children":["blog",{"children":[["slug","wordpress-on-aws-lightsail-vs-ec2","d"],{"children":["__PAGE__?{\"slug\":\"wordpress-on-aws-lightsail-vs-ec2\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":["(marketing)",{"children":["blog",{"children":[["slug","wordpress-on-aws-lightsail-vs-ec2","d"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3ba84af863b23d36.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(marketing)","children","blog","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(marketing)","children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/48409e7635d7cbf6.css","precedence":"next","crossOrigin":"$undefined"}]],[["$","$L6",null,{}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(marketing)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"className":"Footer_footer__AHlHv","children":["$","div",null,{"className":"Footer_container__Vjdvq","children":[["$","nav",null,{"className":"Footer_nav__wTB6R","children":[["$","$L7","/company",{"href":"/company","className":"Footer_navLink__Gsa1U","children":"会社情報"}],["$","$L7","/services",{"href":"/services","className":"Footer_navLink__Gsa1U","children":"サービス"}],["$","$L7","/projects",{"href":"/projects","className":"Footer_navLink__Gsa1U","children":"実績"}],["$","$L7","/blog",{"href":"/blog","className":"Footer_navLink__Gsa1U","children":"ブログ"}],["$","$L7","/trends",{"href":"/trends","className":"Footer_navLink__Gsa1U","children":"業界トレンド"}],["$","$L7","/careers",{"href":"/careers","className":"Footer_navLink__Gsa1U","children":"採用情報"}],["$","$L7","/contact",{"href":"/contact","className":"Footer_navLink__Gsa1U","children":"お問い合わせ"}],["$","$L7","/privacy-policy",{"href":"/privacy-policy","className":"Footer_navLink__Gsa1U","children":"プライバシーポリシー"}]]}],["$","$L7",null,{"href":"/","className":"Footer_logo__zzQdg","children":["$","$L8",null,{"src":"/images/logo-text.svg","alt":"ネビュラソフト","width":240,"height":25,"className":"Footer_logoText__ic4W3"}]}],["$","p",null,{"className":"Footer_companyNameJa__h7hDD","children":"株式会社ネビュラソフト"}],["$","p",null,{"className":"Footer_address__i0YNO","children":"東京都中央区日本橋箱崎町3-12 ５セントラルビル301室"}],["$","p",null,{"className":"Footer_copyright__mq7le","children":"Copyright © 2016 nebulasoft Co., Ltd. All Rights Reserved. 株式会社 ネビュラソフト"}]]}]}],["$","$L9",null,{}]]],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/23e95f26f0166eb5.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/86697a624527b587.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"ja","className":"__variable_0c1391 __variable_8b3a0b","children":["$","body",null,{"className":"__className_0c1391","children":[["$","$La",null,{}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$b","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$c","children":"404"}],["$","div",null,{"style":"$d","children":["$","h2",null,{"style":"$e","children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]]}]}]],null],null],["$Lf",null]]]]
+11:I[2863,["972","static/chunks/972-552ddab09bbe1887.js","666","static/chunks/app/(marketing)/blog/%5Bslug%5D/page-e046fa657ee67aa4.js"],"Contact"]
+10:T103c,<h1>Lightsail と EC2 の選び方と移行パターン</h1>
+<p>AWS では、<strong>Lightsail</strong> と <strong>EC2</strong> のいずれも仮想サーバを提供しますが、目的や規模に応じて選択基準が異なります。<br>本記事では、両者の特性、代表的な構成例、Terraform によるコード例、そして移行の流れを解説します。</p>
+
+<h2>どちらを選ぶべきか</h2>
+<h3>Lightsail（シンプル・省運用）</h3>
+<ul>
+<li>OS、ミドルウェア、アプリケーションをまとめた<strong>統合イメージ</strong>が用意されており、数分で環境を立ち上げ可能。</li>
+<li><strong>固定帯域・月額課金制</strong>でコストを予測しやすい。</li>
+<li><strong>管理コンソールで完結</strong>する操作性が高く、小規模チームや MVP 開発に適している。</li>
+<li>一方で、<strong>カスタマイズ性や拡張性は限定的</strong>。</li>
+</ul>
+<h3>EC2（柔軟・拡張志向）</h3>
+<ul>
+<li>OS、Web サーバ、アプリケーション、DB などを<strong>自由に構成可能</strong>。</li>
+<li><strong>VPC / ALB / Auto Scaling / IAM / CloudWatch</strong> など、他の AWS サービスと密に統合できる。</li>
+<li>中〜大規模システム、セキュリティ要件や可用性が重視されるプロジェクトに最適。</li>
+<li>ただし、<strong>運用・保守の負担は高め</strong>。</li>
+</ul>
+
+<h2>代表的なアーキテクチャ構成</h2>
+<ol>
+<li><p><strong>単一インスタンス構成</strong></p>
+<ul>
+<li>EC2（Nginx + PHP-FPM + DB）</li>
+<li>開発・検証環境や小規模サイト向け。</li>
+</ul>
+</li>
+<li><p><strong>三層構成</strong></p>
+<ul>
+<li>EC2（Web）＋ RDS（DB）＋ S3 / CloudFront（静的アセット配信）</li>
+<li>一般的な WordPress や業務系 Web システムで採用される構成。</li>
+</ul>
+</li>
+<li><p><strong>スケーラブル構成</strong></p>
+<ul>
+<li>ALB ＋ Auto Scaling Group（EC2）＋ RDS Multi-AZ ＋ S3 ＋ ElastiCache</li>
+<li>高トラフィック対応、冗長構成、セッション共有を考慮した設計。</li>
+</ul>
+</li>
+</ol>
+
+<h2>Terraform による EC2 デプロイ例（抜粋）</h2>
+<pre><code class="language-hcl">resource "aws_instance" "wp" {
+  ami           = "ami-xxxxxxxx"
+  instance_type = "t3.small"
+  # user_data 内で Nginx / PHP / WordPress を自動セットアップ
+}
+</code></pre>
+<p>インフラをコード化（IaC）することで、再現性・可搬性の高い環境構築が可能になります。<br>チーム開発では GitOps や CI/CD パイプライン と組み合わせることで、安定したリリース運用が実現できます。</p>
+
+<h2>Lightsail から EC2 / RDS への移行ステップ</h2>
+<ol>
+<li><p><strong>データエクスポート</strong></p>
+<ul>
+<li>wp-cli や WordPress 用の移行プラグインを利用し、DB をエクスポート。</li>
+</ul>
+</li>
+<li><p><strong>データベース移行</strong></p>
+<ul>
+<li>エクスポートしたデータを RDS にインポート。</li>
+</ul>
+</li>
+<li><p><strong>アプリケーション移設</strong></p>
+<ul>
+<li>EC2 上に WordPress / PHP / Nginx を構築し、RDS へ接続設定を変更。</li>
+<li>wp-config.php の接続情報を更新。</li>
+</ul>
+</li>
+<li><p><strong>メディアファイルのホスティング</strong></p>
+<ul>
+<li>画像・動画などの静的ファイルを S3 に配置し、CloudFront で配信。</li>
+</ul>
+</li>
+<li><p><strong>DNS 切り替え・ロールバック対応</strong></p>
+<ul>
+<li>Route 53 などで新環境のドメインを指すよう設定し、問題発生時に即座に戻せるよう冗長設計。</li>
+</ul>
+</li>
+</ol>
+
+<h2>まとめ</h2>
+<ul>
+<li><strong>Lightsail</strong>：スピード重視・簡易運用に最適。</li>
+<li><strong>EC2</strong>：拡張性・統合性を求める場合に選択。</li>
+<li>規模拡大に合わせて Lightsail → EC2 / RDS へシームレスに移行できる設計を意識することで、将来的な運用コストを最小化できます。</li>
+</ul>
+2:["$","div",null,{"className":"detail-page_pageContainer__cNf3_","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"AWS における WordPress のデプロイ：Lightsail と EC2 の選択と実践\",\"description\":\"AWS で WordPress を構築する際の Lightsail と EC2 の選択基準、アーキテクチャパターン、運用の複雑度、拡張性、移行パスを実プロジェクトから解説します。\",\"image\":\"https://nebulasoft.co.jp/images/blog/placeholder.svg\",\"datePublished\":\"2025-10-07\",\"dateModified\":\"2025-10-07\",\"author\":{\"@type\":\"Organization\",\"name\":\"株式会社ネビュラソフト\",\"url\":\"https://nebulasoft.co.jp\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"株式会社ネビュラソフト\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://nebulasoft.co.jp/images/logo-icon.svg\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://nebulasoft.co.jp/blog/wordpress-on-aws-lightsail-vs-ec2\"},\"keywords\":\"WordPress, AWS, Lightsail, EC2, インフラ構築\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://nebulasoft.co.jp\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"ブログ\",\"item\":\"https://nebulasoft.co.jp/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"AWS における WordPress のデプロイ：Lightsail と EC2 の選択と実践\",\"item\":\"https://nebulasoft.co.jp/blog/wordpress-on-aws-lightsail-vs-ec2\"}]}"}}],["$","section",null,{"className":"detail-page_breadcrumbSection__ZOcEf","children":["$","div",null,{"className":"container","children":["$","nav",null,{"className":"Breadcrumb_breadcrumb__Nr5Ua","aria-label":"パンくずリスト","children":[["$","span","0",{"className":"Breadcrumb_breadcrumbItem__VFiR5","children":[["$","$L7",null,{"href":"/","className":"Breadcrumb_link__CDsWw","children":"ホーム"}],["$","span",null,{"className":"Breadcrumb_separator__KXuc7","aria-hidden":"true","children":"›"}]]}],["$","span","1",{"className":"Breadcrumb_breadcrumbItem__VFiR5","children":[["$","$L7",null,{"href":"/blog","className":"Breadcrumb_link__CDsWw","children":"ブログ"}],["$","span",null,{"className":"Breadcrumb_separator__KXuc7","aria-hidden":"true","children":"›"}]]}],["$","span","2",{"className":"Breadcrumb_breadcrumbItem__VFiR5","children":[["$","span",null,{"className":"Breadcrumb_current__R3HRq","children":"AWS における WordPress のデプロイ：Lightsail と EC2 の選択と実践"}],false]}]]}]}]}],["$","section",null,{"className":"detail-page_titleSection__p_ga1","children":["$","div",null,{"className":"container","children":["$","h1",null,{"className":"detail-page_title__BFEdF","children":"AWS における WordPress のデプロイ：Lightsail と EC2 の選択と実践"}]}]}],["$","section",null,{"className":"detail-page_contentSection__MIu3Z","children":["$","div",null,{"className":"container","children":[["$","div",null,{"className":"detail-page_metaInfo__VdS4C","children":["$","div",null,{"className":"detail-page_metaItem__j9veN","children":"2025年10月7日"}]}],["$","article",null,{"className":"detail-page_mainContent__OpwAg","children":["$","div",null,{"className":"prose_prose__ubt9N","dangerouslySetInnerHTML":{"__html":"$10"}}]}],["$","div",null,{"className":"detail-page_backToList__SqslC","children":["$","$L7",null,{"href":"/blog","className":"detail-page_backButton__aZatA","children":[["$","svg",null,{"width":"24","height":"24","viewBox":"0 0 24 24","fill":"none","xmlns":"http://www.w3.org/2000/svg","children":["$","path",null,{"d":"M19 12H5M5 12L12 19M5 12L12 5","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round"}]}],["$","span",null,{"children":"一覧に戻る"}]]}]}]]}]}],["$","$L11",null,{}]]}]
+f:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"AWS における WordPress のデプロイ：Lightsail と EC2 の選択と実践 | ブログ | 株式会社ネビュラソフト"}],["$","meta","3",{"name":"description","content":"AWS で WordPress を構築する際の Lightsail と EC2 の選択基準、アーキテクチャパターン、運用の複雑度、拡張性、移行パスを実プロジェクトから解説します。"}],["$","meta","4",{"name":"author","content":"株式会社ネビュラソフト"}],["$","link","5",{"rel":"manifest","href":"/manifest.json","crossOrigin":"use-credentials"}],["$","meta","6",{"name":"keywords","content":"WordPress,AWS,Lightsail,EC2,インフラ構築"}],["$","meta","7",{"name":"creator","content":"株式会社ネビュラソフト"}],["$","meta","8",{"name":"publisher","content":"株式会社ネビュラソフト"}],["$","meta","9",{"name":"robots","content":"index, follow"}],["$","meta","10",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","11",{"rel":"canonical","href":"https://nebulasoft.co.jp/blog/wordpress-on-aws-lightsail-vs-ec2"}],["$","meta","12",{"name":"format-detection","content":"telephone=no, address=no, email=no"}],["$","meta","13",{"property":"og:title","content":"AWS における WordPress のデプロイ：Lightsail と EC2 の選択と実践 | 株式会社ネビュラソフト"}],["$","meta","14",{"property":"og:description","content":"AWS で WordPress を構築する際の Lightsail と EC2 の選択基準、アーキテクチャパターン、運用の複雑度、拡張性、移行パスを実プロジェクトから解説します。"}],["$","meta","15",{"property":"og:url","content":"https://nebulasoft.co.jp/blog/wordpress-on-aws-lightsail-vs-ec2"}],["$","meta","16",{"property":"og:image","content":"https://liao-peiwen.github.io/images/blog/placeholder.svg"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"AWS における WordPress のデプロイ：Lightsail と EC2 の選択と実践"}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2025-10-07"}],["$","meta","22",{"property":"article:modified_time","content":"2025-10-07"}],["$","meta","23",{"property":"article:author","content":"株式会社ネビュラソフト"}],["$","meta","24",{"property":"article:tag","content":"WordPress"}],["$","meta","25",{"property":"article:tag","content":"AWS"}],["$","meta","26",{"property":"article:tag","content":"Lightsail"}],["$","meta","27",{"property":"article:tag","content":"EC2"}],["$","meta","28",{"property":"article:tag","content":"インフラ構築"}],["$","meta","29",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","30",{"name":"twitter:title","content":"AWS における WordPress のデプロイ：Lightsail と EC2 の選択と実践"}],["$","meta","31",{"name":"twitter:description","content":"AWS で WordPress を構築する際の Lightsail と EC2 の選択基準、アーキテクチャパターン、運用の複雑度、拡張性、移行パスを実プロジェクトから解説します。"}],["$","meta","32",{"name":"twitter:image","content":"https://liao-peiwen.github.io/images/blog/placeholder.svg"}],["$","link","33",{"rel":"shortcut icon","href":"/favicon.ico"}],["$","link","34",{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link","35",{"rel":"icon","href":"/favicon-32x32.png","sizes":"32x32","type":"image/png"}],["$","link","36",{"rel":"icon","href":"/favicon-16x16.png","sizes":"16x16","type":"image/png"}],["$","link","37",{"rel":"icon","href":"/images/logo-icon.svg","type":"image/svg+xml"}],["$","link","38",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","meta","39",{"name":"next-size-adjust"}]]
+1:null
